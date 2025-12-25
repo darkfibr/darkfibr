@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hey, I'm Mike 👋
 
-<!--
-**darkfibr/darkfibr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder @ [Blackfish Security LLC](https://blackfish-defended.com)** | Hardware Security Researcher | DMA/FPGA Specialist
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+
+🔒 **Hardware-Level Security Research** - DMA attacks, PCIe protocol analysis, FPGA firmware development  
+🎮 **Anti-Cheat Consulting** - Red team operations for major gaming companies  
+🛡️ **Defensive Security** - Helping companies understand and defend against hardware-based attacks  
+💧 **Day Job** - Florida Class C Licensed Water Treatment Operator (yes, really)
+
+---
+
+## Current Focus
+
+- DMA firmware security research
+- FPGA development (Artix-7, Vivado, SystemVerilog)
+- PCIe protocol analysis and device emulation
+- Building tools to make hardware security research safer
+
+---
+
+## Tech Stack
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Vivado](https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=flat&logo=xilinx&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-CAD09D?style=flat)
+![FPGA](https://img.shields.io/badge/FPGA-Artix--7-blue)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+---
+
+## Philosophy
+
+> "Stealth through legitimacy, not obscurity."
+
+I believe in:
+- **Responsible disclosure** - Report issues properly, give time to fix
+- **Community safety** - Share tools that protect hardware
+- **Honest documentation** - If something can brick your board, say so
+
+---
+
+## Contact
+
+📧 **Business:** Blackfish-Security@proton.me  
+🌐 **Website:** [blackfish-defended.com](https://blackfish-defended.com)  
+🔐 **PGP:** Available on request
+
+---
+
+<sub>Coding since 1997 | Dial-up TCP/IP veteran | Old school wizard energy</sub>
