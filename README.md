@@ -120,13 +120,7 @@ AI-augmented memory analysis and automated context management system.
 
 - **Founder**: Blackfish Security LLC
 - **Classification**: Hardware Security Research / ATP Operations
-- **Origin**: Dial-up TCP/IP veteran (1997), systems engineer trajectory
-
----
-
-## Contact Protocol
-
-> **Not a public profile. Vetted contacts only.**
+- **Origin**: Dial-up TCP/IP veteran/h4ck/phr3ak scene/ (1997), systems engineer trajectory
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════╗
@@ -144,4 +138,4 @@ AI-augmented memory analysis and automated context management system.
 
 ---
 
-*"Memory doesn't forget. Hardware doesn't forgive. I don't either."*
+*"Memory doesn't forget. Hardware doesn't forgive."*
