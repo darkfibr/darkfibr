@@ -109,8 +109,7 @@ AI-augmented memory analysis and automated context management system.
 
 > *"The perfect operation leaves no trace. The perfect implant looks like firmware."*
 
-- **Zero Trust Infrastructure**: All tools air-gapped, all traffic tunneled/home/darkfibr/Desktop/DMA_Extraction_Suite_Complete_v2.0/new_README.md
-- **Hardware-Level Persistence**: Implants that survive OS reinstalls
+- **Zero Trust Infrastructure**: All tools air-gapped, all traffic tunneled
 - **Anti-Forensic Design**: Memory-evasive, timestamp-obfuscated, logless
 - **Stealth Through Legitimacy**: Traffic that mimics vendor signatures
 
