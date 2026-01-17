@@ -47,7 +47,7 @@
 ║  ├── Direct Memory Access exploitation                                ║
 ║  ├── PCIe config space spoofing, BAR manipulation                     ║
 ║  ├── SMM/UEFI firmware analysis and modification                      ║
-║  ├── Anti-cheat circumvention (EAC, FaceIt, BattlEye, Vanguard)       ║
+║  ├── Anti-cheat circumvention (EAC, FaceIt, BattlEye, RAC, JAV, VGK)  ║
 ║  └── Hardware-level persistence and anti-detection                    ║
 ║                                                                       ║
 ╚═══════════════════════════════════════════════════════════════════════╝
