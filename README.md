@@ -7,7 +7,6 @@
 ## What I Do
 
 🔒 **Hardware-Level Security Research** - DMA attacks, PCIe protocol analysis, FPGA firmware development  
-🎮 **Anti-Cheat Consulting** - Red team operations for major gaming companies  
 🛡️ **Defensive Security** - Helping companies understand and defend against hardware-based attacks  
 💧 **Day Job** - Florida Class C Licensed Water Treatment Operator (yes, really)
 
