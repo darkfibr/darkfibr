@@ -127,8 +127,8 @@ AI-augmented memory analysis and automated context management system.
 ╠═══════════════════════════════════════════════════════════════════════╣
 ║                                                                       ║
 ║  ▸ Signal     : Established contacts only                             ║
-║  ▸ ProtonMail : blackfish-security@proton.me                         ║
-║  ▸ PGP        : Available, required for sensitive comms              ║
+║  ▸ ProtonMail : blackfish-security@proton.me                          ║
+║  ▸ PGP        : Available, required for sensitive comms               ║
 ║  ▸ 0Bin       : For ephemeral exchanges                               ║
 ║                                                                       ║
 ║  "No public inquiries. No job offers. No tourists."                   ║
