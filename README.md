@@ -9,7 +9,7 @@
 
 Water treatment plant operator, Bradenton, FL. Third shift.
 
-Twenty years in hardware security — FPGA firmware (Xilinx Artix-7, SystemVerilog), DMA attack surface exploitation, PCIe TLP engine design, IOMMU/VT-d manipulation, UEFI/SMM modification. Active anti-cheat security contracts with EA and Activision. Founder, Blackfish Security LLC.
+Twenty years in hardware security — FPGA firmware (Xilinx Artix-7, SystemVerilog), DMA attack surface exploitation, PCIe TLP engine design, IOMMU/VT-d manipulation, UEFI/SMM modification. Founder, Blackfish Security LLC.
 
 The same persistence engineering that works at the silicon level — the signal buried in noise, the DMA path around a memory controller, the firmware hook that survives OS reinstalls — appears to apply at the identity level. The persistent kernel is always small, always structural, always survives removal attempts that target everything around it.
 
